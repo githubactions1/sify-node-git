@@ -30,4 +30,4 @@ jobs:
         cache: 'npm'
 
     - run: npm i 
-    - run: ~/.nvm/versions/node/v16.20.2/bin/pm2 start devsifynode.js
+    - run: ~/.nvm/versions/node/v16.20.2/bin/pm2 restart devsifynode.js
