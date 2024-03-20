@@ -1,5 +1,5 @@
 var jwt = require('jsonwebtoken');
-var appRoot ='/home/centos/glits/code/nodejs/SIFY_server'
+var appRoot ='/home/phpb/actions-runner/_work/sify-node-git/sify-node-git/'
 var authMdl = require('../models/authMdl');
 var df = require( '../../../../utils/dflower.utils');
 var mailUtls = require(appRoot + '/utils/communication.utils');

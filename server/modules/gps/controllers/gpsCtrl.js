@@ -1,4 +1,4 @@
-var appRoot = '/home/centos/glits/code/nodejs/SIFY_server'
+var appRoot = '/home/phpb/actions-runner/_work/sify-node-git/sify-node-git/'
 var gpsMdl = require(appRoot + '/server/modules/gps/models/gpsMdl');
 var df = require(appRoot + '/utils/dflower.utils');
 var cntxtDtls = df.getModuleMetaData(__dirname, __filename);

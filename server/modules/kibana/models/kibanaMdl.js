@@ -1,4 +1,4 @@
-var appRoot ='/home/centos/glits/code/nodejs/SIFY_server'
+var appRoot ='/home/phpb/actions-runner/_work/sify-node-git/sify-node-git/'
 var std = require(appRoot + '/utils/standardMessages');
 var df = require(appRoot + '/utils/dflower.utils');
 //var jsonUtils = require(appRoot + '/utils/json.utils');

@@ -2,7 +2,7 @@
 var express = require('express');
 var router = express.Router();
 var authCtrl = require('../modules/auth/controllers/authCtrl');
-var appRoot ='/home/centos/glits/code/nodejs/SIFY_server'
+var appRoot ='/home/phpb/actions-runner/_work/sify-node-git/sify-node-git/'
 var checkUser = require('../modules/auth/controllers/accessCtrl');
 
 

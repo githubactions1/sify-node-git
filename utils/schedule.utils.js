@@ -1,5 +1,5 @@
 var schedule = require("node-schedule");
-var appRoot = '/home/centos/glits/code/nodejs/SIFY_server'
+var appRoot = '/home/phpb/actions-runner/_work/sify-node-git/sify-node-git/'
 var log = require(appRoot + '/utils/logmessages');
 var taskCtrl = require(appRoot + '/server/modules/task/controllers/taskCtrl');
 var scheduleJobsCtrl = require(appRoot + '/server/modules/scheduleJobs/controllers/scheduleJobsCtrl');
